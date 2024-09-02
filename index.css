@@ -1,0 +1,527 @@
+.frame-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-silver-100);
+  width: 320px;
+  height: 700px;
+}
+.frame-item,
+.rectangle-wrapper {
+  position: absolute;
+  top: 1677px;
+  left: 1065px;
+  width: 320px;
+  height: 700px;
+}
+.frame-item {
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  width: 1550px;
+  height: 70px;
+}
+.about,
+.contact,
+.services {
+  position: absolute;
+  top: 26px;
+  left: 1247px;
+  font-size: var(--font-size-6xl);
+}
+.about,
+.contact {
+  left: 1387px;
+}
+.about {
+  left: 1139px;
+}
+.herbal-healing {
+  position: absolute;
+  top: 17px;
+  left: 115px;
+}
+.frame-child1,
+.frame-inner,
+.rectangle-icon {
+  position: absolute;
+  top: 77px;
+  left: 45px;
+  width: 1460px;
+  height: 600px;
+  object-fit: cover;
+}
+.frame-child1,
+.rectangle-icon {
+  top: 709px;
+  left: 305px;
+  width: 550px;
+  height: 650px;
+}
+.frame-child1 {
+  top: 809px;
+  left: 775px;
+  width: 450px;
+  height: 450px;
+}
+.line-icon {
+  width: 264px;
+  height: 1px;
+  object-fit: contain;
+}
+.frame-child2,
+.line-icon,
+.what-we-offer {
+  position: relative;
+}
+.frame-child2 {
+  width: 265px;
+  height: 1px;
+  object-fit: contain;
+}
+.line-parent {
+  position: absolute;
+  top: 1491px;
+  left: 303px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 10px;
+  font-size: 53px;
+  color: var(--color-darkolivegreen);
+}
+.frame-child3,
+.rectangle-div {
+  position: absolute;
+  top: 1677px;
+  left: 165px;
+  background-color: var(--color-silver-100);
+  width: 320px;
+  height: 700px;
+}
+.frame-child3 {
+  left: 615px;
+}
+.eye-care-involves,
+.menstrual-care-involves {
+  position: absolute;
+  top: 2133px;
+  left: 684px;
+  font-size: var(--font-size-mini);
+  font-weight: 600;
+  display: inline-block;
+  width: 200px;
+  height: 190px;
+}
+.menstrual-care-involves {
+  top: 2129px;
+  left: 1129px;
+}
+.menstrual-care {
+  position: absolute;
+  top: 2013px;
+  left: 1078px;
+  font-size: var(--font-size-21xl);
+  color: var(--color-darkolivegreen);
+}
+.frame-child4 {
+  position: absolute;
+  top: 3346px;
+  left: 132px;
+  width: 360px;
+  height: 328px;
+  object-fit: cover;
+}
+.cardio-care {
+  position: absolute;
+  top: 2013px;
+  left: 209px;
+  font-size: var(--font-size-21xl);
+  color: var(--color-darkolivegreen);
+}
+.tulsi {
+  position: absolute;
+  top: 3603px;
+  left: 278px;
+  font-weight: 600;
+  color: var(--color-white);
+}
+.frame-child5,
+.rectangle-button {
+  position: absolute;
+  top: 3596px;
+  border: 2.4px solid var(--color-white);
+  box-sizing: border-box;
+  width: 230px;
+  height: 50px;
+}
+.rectangle-button {
+  cursor: pointer;
+  padding: 0;
+  background-color: var(--color-gainsboro-200);
+  left: 197px;
+}
+.frame-child5 {
+  left: 1137px;
+  background-color: var(--color-gainsboro-100);
+}
+.frame-child6 {
+  position: absolute;
+  top: 3746px;
+  left: 132px;
+  width: 360px;
+  height: 328px;
+  object-fit: cover;
+}
+.frame-child7 {
+  cursor: pointer;
+  border: 2.4px solid var(--color-white);
+  padding: 0;
+  background-color: var(--color-gainsboro-200);
+  position: absolute;
+  top: 3996px;
+  left: 197px;
+  box-sizing: border-box;
+  width: 230px;
+  height: 50px;
+}
+.ginger {
+  position: absolute;
+  top: 4003px;
+  left: 263px;
+  font-weight: 600;
+  color: var(--color-white);
+}
+.frame-child9 {
+  position: absolute;
+  top: 3746px;
+  left: 602px;
+  width: 360px;
+  height: 335px;
+  object-fit: cover;
+}
+.frame-child10 {
+  cursor: pointer;
+  border: 2.4px solid var(--color-white);
+  padding: 0;
+  background-color: var(--color-gainsboro-200);
+  position: absolute;
+  top: 3996px;
+  left: 667px;
+  box-sizing: border-box;
+  width: 230px;
+  height: 50px;
+}
+.aloe-vera {
+  position: absolute;
+  top: 4003px;
+  left: 699px;
+  font-weight: 600;
+  color: var(--color-white);
+}
+.frame-child11 {
+  position: absolute;
+  top: 3746px;
+  left: 1072px;
+  width: 360px;
+  height: 328px;
+  object-fit: cover;
+}
+.saffron {
+  position: absolute;
+  top: 4003px;
+  left: 1198px;
+  font-weight: 600;
+  color: var(--color-white);
+}
+.frame-child12 {
+  cursor: pointer;
+  border: 2.4px solid var(--color-white);
+  padding: 0;
+  background-color: var(--color-gainsboro-200);
+  position: absolute;
+  top: 3996px;
+  left: 1137px;
+  box-sizing: border-box;
+  width: 230px;
+  height: 50px;
+}
+.frame-child13 {
+  position: absolute;
+  top: 3346px;
+  left: 602px;
+  width: 360px;
+  height: 328px;
+  object-fit: cover;
+}
+.eye-care {
+  position: absolute;
+  top: 2013px;
+  left: 688px;
+  font-size: var(--font-size-21xl);
+  color: var(--color-darkolivegreen);
+}
+.giloy {
+  position: absolute;
+  top: 3603px;
+  left: 744px;
+  font-weight: 600;
+  color: var(--color-white);
+}
+.frame-child14 {
+  cursor: pointer;
+  border: 2.4px solid var(--color-white);
+  padding: 0;
+  background-color: var(--color-gainsboro-200);
+  position: absolute;
+  top: 3596px;
+  left: 667px;
+  box-sizing: border-box;
+  width: 230px;
+  height: 50px;
+}
+.frame-child15 {
+  position: absolute;
+  top: 3346px;
+  left: 1072px;
+  width: 360px;
+  height: 328px;
+  object-fit: cover;
+}
+.frame-child16 {
+  position: absolute;
+  top: 3596px;
+  left: 1137px;
+  background-color: var(--color-gainsboro-200);
+  border: 2.4px solid var(--color-white);
+  box-sizing: border-box;
+  width: 230px;
+  height: 50px;
+}
+.ashwagandha {
+  position: absolute;
+  top: 3603px;
+  left: 1148px;
+  font-weight: 600;
+  color: var(--color-white);
+}
+.frame-child17 {
+  position: absolute;
+  top: 3167px;
+  left: 30px;
+  background-color: rgba(196, 196, 196, 0.5);
+  width: 1460px;
+  height: 141px;
+}
+.frame-child18 {
+  position: absolute;
+  top: 4119px;
+  left: 0;
+  width: 1550px;
+  height: 220px;
+  object-fit: cover;
+}
+.privacy-policy {
+  position: absolute;
+  top: 4307px;
+  left: 556px;
+  font-size: 18px;
+  font-weight: 600;
+  color: var(--color-white);
+}
+.frame-child19 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: rgba(255, 255, 255, 0.5);
+  position: absolute;
+  top: 1170px;
+  left: 875px;
+  border-radius: 25px;
+  width: 250px;
+  height: 50px;
+}
+.read-more {
+  position: absolute;
+  top: 1173px;
+  left: 915px;
+  font-size: 35px;
+  font-weight: 600;
+  display: inline-block;
+  width: 210px;
+  height: 47px;
+}
+.frame-child20 {
+  position: absolute;
+  top: 5px;
+  left: 45px;
+  width: 60px;
+  height: 60px;
+  object-fit: cover;
+}
+.home {
+  position: absolute;
+  top: 26px;
+  left: 1035px;
+  font-size: var(--font-size-6xl);
+}
+.frame-child21 {
+  cursor: pointer;
+  border: 3px solid var(--color-white);
+  padding: 0;
+  background-color: rgba(217, 217, 217, 0.7);
+  position: absolute;
+  top: 506px;
+  left: 456px;
+  border-radius: 30px;
+  box-sizing: border-box;
+  width: 230px;
+  height: 50px;
+}
+.explore {
+  position: absolute;
+  top: 502px;
+  left: 488px;
+  font-size: 45px;
+  color: var(--color-white);
+}
+.ellipse-icon,
+.frame-child22,
+.frame-child23 {
+  position: absolute;
+  top: 1686px;
+  left: 175px;
+  border-radius: 50%;
+  width: 300px;
+  height: 300px;
+  object-fit: cover;
+}
+.frame-child22,
+.frame-child23 {
+  left: 625px;
+}
+.frame-child23 {
+  left: 1075px;
+}
+.frame-child24 {
+  position: absolute;
+  top: 2429px;
+  left: 165px;
+  background-color: var(--color-silver-100);
+  width: 320px;
+  height: 700px;
+}
+.cardio-care-focuses,
+.mental-health-is {
+  position: absolute;
+  top: 2115px;
+  left: 225px;
+  font-size: var(--font-size-mini);
+  font-weight: 600;
+  display: inline-block;
+  width: 200px;
+  height: 190px;
+}
+.mental-health-is {
+  top: 2867px;
+}
+.frame-child25 {
+  position: absolute;
+  top: 2429px;
+  left: 615px;
+  background-color: var(--color-silver-100);
+  width: 320px;
+  height: 700px;
+}
+.skin-care-involves {
+  position: absolute;
+  top: 2867px;
+  left: 660px;
+  font-size: var(--font-size-mini);
+  font-weight: 600;
+  display: inline-block;
+  width: 200px;
+  height: 190px;
+}
+.frame-child26 {
+  position: absolute;
+  top: 2429px;
+  left: 1065px;
+  background-color: var(--color-silver-100);
+  width: 320px;
+  height: 700px;
+}
+.abdomen-care-involves {
+  position: absolute;
+  top: 2867px;
+  left: 1125px;
+  font-size: var(--font-size-mini);
+  font-weight: 600;
+  display: inline-block;
+  width: 200px;
+  height: 190px;
+}
+.abdomen-care,
+.mental-health,
+.skin-care {
+  position: absolute;
+  top: 2765px;
+  left: 1078px;
+  font-size: var(--font-size-21xl);
+  color: var(--color-darkolivegreen);
+}
+.mental-health,
+.skin-care {
+  left: 188px;
+}
+.skin-care {
+  left: 688px;
+}
+.frame-child27,
+.frame-child28,
+.frame-child29 {
+  position: absolute;
+  top: 2438px;
+  left: 175px;
+  border-radius: 50%;
+  width: 300px;
+  height: 300px;
+  object-fit: cover;
+}
+.frame-child28,
+.frame-child29 {
+  left: 625px;
+}
+.frame-child29 {
+  left: 1075px;
+}
+.glimpse,
+.herbs-rooted-in {
+  position: absolute;
+  font-family: var(--font-times-new-roman);
+}
+.glimpse {
+  top: 3156px;
+  left: 530px;
+  font-size: 125px;
+  color: var(--color-darkolivegreen);
+}
+.herbs-rooted-in {
+  top: 871px;
+  left: 824px;
+  display: inline-block;
+  width: 370px;
+  height: 283px;
+}
+.frame-parent {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 4339px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-11xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
